@@ -1,4 +1,4 @@
-//Exercise to draw the Radioactive Decay law in exact form and taylor series. Then we label the half life on the graph.
+//Exercise to draw the Radioactive Decay law in exact form and taylor series. Then we label the half life on the graph. Assume at t=0, N_0=1
 
 #include<TMath.h>
 
